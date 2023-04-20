@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdfa7108-454a-463a-86c9-7d3e9987839b" name="Changes" comment="commit inicial">
+    <list default="true" id="fdfa7108-454a-463a-86c9-7d3e9987839b" name="Changes" comment="ajustes após acertos de tentativas">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681994357593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajustes após acertos de tentativas">
+      <created>1681994971161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681994971161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
+    <MESSAGE value="ajustes após acertos de tentativas" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes após acertos de tentativas" />
   </component>
 </project>

@@ -12,11 +12,13 @@ public class Main {
 
         int tentativas = 0;
 
-        while (tentativas <=5) {
+        while (tentativas < 5) {
 
             System.out.print("Digite um número: ");
 
             numUsuario = leitor.nextInt();
+
+            tentativas++;
 
             if (aleatorio == numUsuario) {
 
@@ -24,12 +26,10 @@ public class Main {
                 break;
             }
             System.out.println("Você errou, tente novamente: ");
-            tentativas++;
-
         }
 
-        if(tentativas == 5){
-            System.out.println("Você não acertou, o número era: " + leitor);
+        if (tentativas == 5) {
+            System.out.println("Você não acertou, o número era: " + aleatorio);
         }
 
     }
